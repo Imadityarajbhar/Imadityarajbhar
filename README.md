@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1 align="center">Hi 👋! My name is Aditya Rajbhar and <br>I'm a Web Developer, from India.</h1>
 
 ###
@@ -64,22 +63,3 @@
 <img src="https://raw.githubusercontent.com/imadityarajbhar/imadityarajbhar/output/snake.svg" alt="Snake animation" />
 
 ###
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imadityarajbhar&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=imadityarajbhar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!---
-Imadityarajbhar/Imadityarajbhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
