@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m ADR <br>
+👋 Hi, I’m Aditya Rajbhar <br>
 👀 I’m interested in programing<br>
 🌱 I’m currently learning web development<br>
 💞️ I’m looking to collaborate on ...<br>
